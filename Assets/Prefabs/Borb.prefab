@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 7487243151712900925}
   m_Layer: 2
   m_Name: Borb
-  m_TagString: Untagged
+  m_TagString: Borb
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
